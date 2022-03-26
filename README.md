@@ -9,7 +9,7 @@
 
 [![Discord Badge](https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.com/users/926204346797006900)
 [![Discord Badge](https://img.shields.io/badge/YouTube-ff0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white)](https://www.youtube.com/channel/UCHV-0hIQeHKtz6syOZSk0bQ)
-[![Discord Badge](https://img.shields.io/badge/İnstagram%20-171515.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://www.instagram.com/sizzyonline9/)
+[![Discord Badge](https://img.shields.io/badge/İnstagram%20-171515.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white)](https://www.instagram.com/sizzyonline9/)
 
 <div >
 <h3>Github Stats</h3>
