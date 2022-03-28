@@ -11,6 +11,9 @@
 [![Discord Badge](https://img.shields.io/badge/YouTube-ff0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white)](https://www.youtube.com/channel/UCHV-0hIQeHKtz6syOZSk0bQ)
 [![Discord Badge](https://img.shields.io/badge/İnstagram%20-171515.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white)](https://www.instagram.com/sizzyonline9/)
 
+![natsusa profile](https://komarev.com/ghpvc/?username=SizzyOnline&color=blueviolet)
+
+
 <div >
 <h3>Github Stats</h3>
    <a href="https://github.com/SizzyOnline" target="_blank">
