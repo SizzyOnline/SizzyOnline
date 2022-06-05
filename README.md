@@ -1,4 +1,4 @@
-## Merhaba! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="10px">
+## Merhaba!
 
 - Kendimden kısaca bahsedeyim. Ben [SizzyOnline (HAMDİ)](https://github.com/SizzyOnline) öğrenmeye,gelişmeye her zaman açık birisiyim.
 1.5 yıla yakındır yazılım ile ilgileniyorum. [SizzyOnline](https://www.sizzyonline.tk/) projeme göz atmayı unutma! Her zaman da kendimi geliştirmeye devam edeceğim!
